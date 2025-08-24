@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhavesh Upadhyay</h1>
+<h1 align="center">Hey 👋, I'm Bhavesh Upadhyay</h1>
 <h3 align="center">Welcome to my GitHub! This is where I share my projects, contributions, and experiments. My goal is to create, collaborate, and learn through code. Whether it's open-source projects, personal projects, or contributions to others' work, everything here is a step in my journey to grow as a developer. Feel free to explore, contribute, and connect!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaveshupadhyay23&label=Profile%20views&color=0e75b6&style=flat" alt="bhaveshupadhyay23" /> </p>
