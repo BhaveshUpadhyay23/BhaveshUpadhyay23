@@ -2,8 +2,6 @@
 <h2>I'm Bhavesh Upadhyay</h2>
 <h3>Welcome to my GitHub! This is where I share my projects, contributions, and experiments. My goal is to create, collaborate, and learn through code. Whether it's open-source projects, personal projects, or contributions to others' work, everything here is a step in my journey to grow as a developer. Feel free to explore, contribute, and connect!</h3>
 
-⚙️ I’m currently learning **Full Stack Development**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bhaveshupadhyay23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhaveshupadhyay23" height="30" width="40" /></a>
